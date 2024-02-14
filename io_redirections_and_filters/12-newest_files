@@ -1,2 +1,2 @@
 #!/bin/bash
-ls --time=creation | head
+ls --time=ctime | head
